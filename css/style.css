@@ -99,7 +99,7 @@ p {
     background: #F5F4FA;
 }
 
-.team-list h3, p  {
+.team-list h3, .team-list p  {
     font-size: 16px;
     line-height: 1.18;
     text-align: center;
